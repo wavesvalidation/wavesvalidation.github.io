@@ -1,1 +1,7 @@
+# Site Settings
+
+title: Waves Validation Guides
+email: wavesvalidation@gmail.com
+description: Guides for all things to be a validator on the REEF blockchain. 
 theme: jekyll-theme-minimal
+github_usernmame: wavesvalidation
